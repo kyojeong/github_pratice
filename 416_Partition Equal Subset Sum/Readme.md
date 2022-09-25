@@ -10,4 +10,7 @@ DP:
 ### 複雜度
 <p>時間複雜度</p>
 <p>DFS: O(2^n)</p>
-DP: O(n*sum)
+<p>DP: O(n*sum)</p>
+<p>空間複雜度</p>
+<p>DFS: O(1)</p>
+<p>DP: O()</p>
