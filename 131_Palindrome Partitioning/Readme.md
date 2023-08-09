@@ -2,7 +2,7 @@
 ### 解題思路
 此為DP問題，dp[j][i]指的是字串[j,i]是否為回文
 <br> 以ababb為例子
-<br> &nbsp a b a b b
+<br> &nbsp; a b a b b
 <br>a T F T F F
 <br>b   T F T F
 <br>a     T F F
